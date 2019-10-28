@@ -81,6 +81,7 @@ newerA.href = "#";
 newerA.style.color = "#7CFC00";
 newerA.textContent = "React";
 
+//Add the new nav links
 parentNode.appendChild(newA);
 parentNode.prepend(newerA);
 
